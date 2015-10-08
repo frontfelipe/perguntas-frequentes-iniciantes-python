@@ -97,3 +97,9 @@ Resposta curta: [http://aprenda-python.blogspot.com.br/2014/02/o-que-voce-sugere
 --------------------------
 
 *Resposta curta:* Não é por causa da cobra, é pelo grupo de comédia Monty Python.
+
+“Tem como fazer um "site" usando Python?”
+--------------------------
+
+*Resposta curta:* Sim, é só usar o Django.
+*Resposta Longa:* Sim, pode se usar o Python + Apache utilizar um dos diversos frameworks python para desenvolvimento web, os mais conhecido são o Django, Web2Py e TurboGears...
